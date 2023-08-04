@@ -115,7 +115,7 @@ namespace WPF_ZooManger
             }
             catch (Exception e)
             {
-                MessageBox.Show(e.ToString());
+                //MessageBox.Show(e.ToString());
             }
         }
 
@@ -136,7 +136,7 @@ namespace WPF_ZooManger
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.ToString());
+                //MessageBox.Show(ex.ToString());
             }
             finally
             {
@@ -159,7 +159,7 @@ namespace WPF_ZooManger
             }
             catch(Exception ex)
             {
-                MessageBox.Show(ex.ToString());
+                //MessageBox.Show(ex.ToString());
             }
             finally
             {
@@ -181,7 +181,7 @@ namespace WPF_ZooManger
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.ToString());
+                //MessageBox.Show(ex.ToString());
             }
             finally
             {
@@ -204,7 +204,7 @@ namespace WPF_ZooManger
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.ToString());
+                //MessageBox.Show(ex.ToString());
             }
             finally
             {
@@ -226,7 +226,7 @@ namespace WPF_ZooManger
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.ToString());
+                //MessageBox.Show(ex.ToString());
             }
             finally
             {
@@ -247,7 +247,7 @@ namespace WPF_ZooManger
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.ToString());
+                //MessageBox.Show(ex.ToString());
             }
             finally
             {
@@ -275,7 +275,7 @@ namespace WPF_ZooManger
             }
             catch(Exception e)
             {
-                MessageBox.Show(e.ToString());
+                //MessageBox.Show(e.ToString());
             }
         }
 
@@ -298,7 +298,7 @@ namespace WPF_ZooManger
             }
             catch (Exception e)
             {
-                MessageBox.Show(e.ToString());
+                //MessageBox.Show(e.ToString());
             }
 
         }
@@ -316,7 +316,7 @@ namespace WPF_ZooManger
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.ToString());
+                //MessageBox.Show(ex.ToString());
             }
             finally
             {
@@ -338,7 +338,7 @@ namespace WPF_ZooManger
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.ToString());
+                //MessageBox.Show(ex.ToString());
             }
             finally
             {
